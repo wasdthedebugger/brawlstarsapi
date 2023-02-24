@@ -7,7 +7,8 @@ This app uses the Brawl Stars API to fetch data about Brawl Stars players and cl
 1. Clone the repo
 2. Run `npm install` in the frontend and backend directories
 3. Run `npm run dev` in both directories
-4. Goto localhost:PORT to view the app
+4. Create a .env file inside the backend directory and add `API_KEY=YOUR_API_KEY_HERE`
+5. Goto localhost:PORT to view the app
 
 ## How to contribute
 
