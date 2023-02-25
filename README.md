@@ -1,6 +1,6 @@
 # BRAWL STARS API
 
-This app uses the Brawl Stars API to fetch data about Brawl Stars players and clubs. It is a work in progress and is not yet complete. The backend is written in express.js and the frontend is written in Svelte. I am working on this project to learn more about Svelte and Brawl Stars API. I plan to add more features in the future. This is helpfull for a quick headstart on your own Brawl Stars API project.
+This app uses the Brawl Stars API to fetch data about Brawl Stars players and clubs. The backend is written in express.js and the frontend is written in Svelte. I am working on this project to learn more about Svelte and Brawl Stars API. I plan to add more features in the future. This is helpfull for a quick headstart on your own Brawl Stars API project.
 
 ## How to use
 
